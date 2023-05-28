@@ -20,7 +20,7 @@ timezone: Europe/Volgograd
 
 title: Java для начинающих  # the main title
 
-tagline: Сайт Java документации # it will display as the sub-title
+tagline: Разбираемся с Java по шагам # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Сайт Java документации.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/85196343?v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
